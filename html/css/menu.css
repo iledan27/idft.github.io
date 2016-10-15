@@ -1,0 +1,53 @@
+#menu
+{
+width: 180px;
+height: 590px;
+background-color: gray;
+margin-top: -10px;
+margin-left: -10px;
+margin-bottom: -22px;
+margin-right: -10px;
+float:left;
+}
+#menu ul 
+{
+list-style: none outside none;
+text-align: center;
+}
+#menu li a
+{
+color: black;
+text-decoration: none; 
+}
+#menu li:hover
+{
+background-color: #014B67; 
+}
+#menu li a:hover
+{
+color: #fff;
+}
+ul { 
+margin: 0;
+padding: 0;
+}
+#iframe
+{
+float: right;
+width: 800px;
+height: 555px;
+margin-top: -10px;
+margin-right: -10px;
+padding-bottom: 13px;
+padding-left: 20px;
+}
+center a 
+{
+text-decoration: none;
+text-align: left;
+color: #014B67;
+}
+center
+{
+text-align: left;
+}
